@@ -22,6 +22,8 @@ Rationale behind the app was to serve an end user a positive word from a list of
 
 The app is still a work in progress, however has now turned into a SwiftUI/Swift playground.
 
+<img src="https://user-images.githubusercontent.com/68621833/235283837-41241a19-97ef-411b-98b6-2848bfee67a0.gif" width=611 height=339>
+
 WIP:
 - Share button rendering a screenshot of the top level view controller such that it does not capture the share button itself, and passing this down to `ShareLink` so it previews what the screenshot will look like 
 - Dark Mode
