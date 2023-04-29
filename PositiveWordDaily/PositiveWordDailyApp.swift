@@ -2,7 +2,7 @@
 //  PositiveWordDailyApp.swift
 //  PositiveWordDaily
 //
-//  Created by Hasam Hasam on 15/4/2023.
+//  Created by HasmH on 15/4/2023.
 //
 
 import SwiftUI
